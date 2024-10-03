@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc1b141fe32414d40bb04aa73ec30c0a, type: 3}
+  m_Name: SoldiersConfiguration
+  m_EditorClassIdentifier: 
+  _soldiersPrefab:
+  - {fileID: 6573106686027478893, guid: 0a8135aa167d7264eb1506846139f148, type: 3}
+  - {fileID: 8790894189447627341, guid: 5e45af485a9c17e4e94ffa4cafdd48e3, type: 3}
